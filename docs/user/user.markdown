@@ -37,18 +37,18 @@ then follow these steps to connect to the ownCloud Desktop client:
 
       a. Enter the URL of your ownCloud server.
 
-      ![step 1](../images/client-1.png)
+      ![step 1](../../images/client-1.png)
 
       b. Next, enter your ownCloud login information.
 
-      ![step 2](../images/client-2.png)
+      ![step 2](../../images/client-2.png)
 
       c. On the *"Local Folder Option"* screen, choose whether to sync all of
          your files on the ownCloud server, or select individual folders. The
          default local sync folder is `ownCloud`, in your home directory, but
          you can change that here if you want.
 
-      ![step 3](../images/client-3.png)
+      ![step 3](../../images/client-3.png)
 
       d. Once your sync folders are configured, click the *"Connect"* button at
          the bottom right. The client attempts to connect to your ownCloud
@@ -104,7 +104,7 @@ Follow these steps to access your ownCloud server on Android:
     the **[Connect]** button. Click the **[eyeball]** to the right of your
     password to expose your password.
 
-    ![Android Login](../images/android-2.png)
+    ![Android Login](../../images/android-2.png)
 
 4.  Your ownCloud server should be [SSL-enabled](http://info.ssl.com/article.aspx?id=10241)
     so you can connect securely via HTTPS. If your server has a
@@ -112,13 +112,13 @@ Follow these steps to access your ownCloud server on Android:
     you'll get a warning that you can't trust it. If this occurs, click the
     **[YES]** button to trust the certificate and complete your account setup.
 
-    ![Trust Certificate](../images/android-3.png)
+    ![Trust Certificate](../../images/android-3.png)
 
 Great! Your account is set up and you can now sync files to your Android device
 with your ownCloud server. See the [ownCloud Android app documentation](https://doc.owncloud.com/android/)
 for more information.
 
-![ownCloud Android App](../images/android-all-files-overview.png)
+![ownCloud Android App](../../images/android-all-files-overview.png)
 
 ### Connecting to ownCloud on iOS
 
@@ -141,7 +141,7 @@ Follow these steps to access your ownCloud server on iOS:
 
 4.  Once you're connected, your presented with your Files page.
 
-    ![iOS Files Page](../images/ios-files-list.png)
+    ![iOS Files Page](../../images/ios-files-list.png)
 
 Great! Your account is set up and you can now sync files to your iOS device
 with your ownCloud server. See the [ownCloud iOS app documentation](https://doc.owncloud.com/ios/)
