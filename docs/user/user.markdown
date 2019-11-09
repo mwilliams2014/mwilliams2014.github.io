@@ -139,7 +139,7 @@ Follow these steps to access your ownCloud server on iOS:
 
 3.  Open the app and provide your ownCloud server and login information.
 
-4.  Once you're connected, your presented with your Files page.
+4.  Once you're connected, you're presented with your Files page.
 
     ![iOS Files Page](../../images/ios-files-list.png)
 
